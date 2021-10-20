@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "453323846437",
+    "project_id": "flttr-auth",
+    "storage_bucket": "flttr-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453323846437:android:2b0e5fdfde28db2b2220cc",
+        "android_client_info": {
+          "package_name": "com.carlosesp710.flttr_auth_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453323846437-iq5kgrnjtillvor9cv6lo0rq4h7as8lj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.carlosesp710.flttr_auth_app",
+            "certificate_hash": "bb20f7bda35eb012497f588d55c1057e8c79cf5d"
+          }
+        },
+        {
+          "client_id": "453323846437-97tvqurpl1gvd2fa1fde3tt641322ipj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJUIknCKAdb8sKijXWfPp5oEurTbiG7F8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453323846437-97tvqurpl1gvd2fa1fde3tt641322ipj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
